@@ -10,7 +10,7 @@
 
 ### 構文
 
-! U1 BEEP [Duration]<CR><LF> END
+! U BEEP [Duration]<CR><LF> END
 </br>
 
 ### パラメータ解説
